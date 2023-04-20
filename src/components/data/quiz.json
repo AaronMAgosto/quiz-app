@@ -1,0 +1,105 @@
+[
+  {
+    "id": "1",
+    "question":"2 + 2 = ",
+    "options": [
+      {
+        "answer":"6",
+        "isCorrect": false
+      },
+
+      {
+        "answer": "it could be three",
+        "isCorrect":false
+      },
+
+      {
+        "answer": "maybe 2",
+        "isCorrect":false
+      },
+
+      {
+        "answer": "yeah fo sho 4",
+        "isCorrect":true
+      }
+    ]
+  },
+
+  {
+    "id":"2",
+    "question":" on a 20 amp circuit, what kind of outlet should be used?",
+    "options":[
+      {
+        "answer":"15 amp",
+        "isCorrect":true
+      },
+
+      {
+        "answer":"20 amp",
+        "isCorrect":false
+      },
+
+      {
+        "answer":"30 amp",
+        "isCorrect":false
+      },
+
+      {
+        "answer":"10 amp",
+        "isCorrect":false
+      }
+    ]
+  },
+
+  {
+    "id":"3",
+    "question": " which device does not receive a neutral?",
+    "options":[
+      {
+        "answer":"20 amp outlet",
+        "isCorrect":false
+      },
+
+      {
+        "answer":"standard switch",
+        "isCorrect":true
+      },
+
+      {
+        "answer":"10 amp outlet",
+        "isCorrect": false
+      },
+
+      {
+        "answer":"fan",
+        "isCorrect": false
+      }
+    ]
+  }, 
+
+  {
+    "id": "4",
+    "question": " what size wires are most commonly used for homes?",
+    "options":[
+      {
+        "answer":"14/2",
+        "isCorrect":true
+      },
+
+      {
+        "answer":"12/2",
+        "isCorrect":true
+      },
+
+      {
+        "answer":"14/3",
+        "isCorrect":true
+      },
+
+      {
+        "answer":"12/3",
+        "isCorrect":true
+      }
+    ]
+  }
+]
